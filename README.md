@@ -1,4 +1,5 @@
-Together We Rebuild: A Decentralized Crowdfunding Solution
+**Together We Rebuild: A Decentralized Crowdfunding Solution**
+
 In September 2024, a catastrophic flood swept through Poland, causing immense destruction in cities and small towns. This disaster highlighted the urgent need for innovative solutions to provide aid effectively, which led me to explore how blockchain technology could be used in humanitarian efforts.
 
 Together We Rebuild is a decentralized crowdfunding platform, designed to bring transparency and trust back to charitable giving. Many existing donation platforms fail to offer transparency, leaving donors unsure of where their contributions go. Together We Rebuild eliminates this issue by utilizing blockchain for real-time tracking of donations.
